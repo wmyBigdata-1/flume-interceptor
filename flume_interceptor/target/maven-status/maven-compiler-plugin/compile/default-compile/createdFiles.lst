@@ -1,0 +1,5 @@
+com\wmy\gmall\flume\interceptor\LogInterceptor$Builder.class
+com\wmy\gmall\flume\interceptor\TimeStampInteceptor$Builder.class
+com\wmy\gmall\flume\interceptor\TimeStampInteceptor.class
+com\wmy\gmall\flume\interceptor\JsonUtil.class
+com\wmy\gmall\flume\interceptor\LogInterceptor.class
